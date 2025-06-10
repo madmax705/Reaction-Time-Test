@@ -1,0 +1,6 @@
+{
+  "name": "Reaction Time Test",
+  "description": "A web application to test your reaction time. Click when the screen changes color and see your speed. Tracks your scores for the current session. Backend features like user accounts and global leaderboards are not implemented.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
